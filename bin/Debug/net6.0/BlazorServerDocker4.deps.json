@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BlazorServerDocker4/1.0.0": {
+        "runtime": {
+          "BlazorServerDocker4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorServerDocker4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
